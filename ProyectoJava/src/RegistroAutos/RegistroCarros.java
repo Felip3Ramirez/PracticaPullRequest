@@ -105,7 +105,7 @@ public class RegistroCarros {
                     juego();
                     break;
                 case 6:
-                    salir=false;
+                    salir=true;
                     break;
 
                 default:
